@@ -1,0 +1,1 @@
+Este projeto foi realizado utilizando a IDE Pycharm e depois adicionado ao Google Colab. 
