@@ -1,4 +1,3 @@
-````markdown
 # logicomp-nadia-fork
 
 Implementação de regras de lógica no NADIA, desenvolvida inicialmente no PyCharm e posteriormente adaptada para execução no Google Colab.
