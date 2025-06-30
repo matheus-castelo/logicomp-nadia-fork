@@ -94,13 +94,13 @@ content/
 ## 🔗 Links Úteis
 
 * **Código‑Fonte (Google Drive)**
-  [https://drive.google.com/drive/folders/1u3\_bdYKhEHu8YmxL-UALQ6ePeQImtRHn?usp=sharing](https://drive.google.com/drive/folders/1u3_bdYKhEHu8YmxL-UALQ6ePeQImtRHn?usp=sharing)
+  [Código Fonte](https://drive.google.com/drive/folders/1u3_bdYKhEHu8YmxL-UALQ6ePeQImtRHn?usp=sharing)
 
 * **Slides / Apresentação**
-  [https://drive.google.com/drive/folders/1u3\_bdYKhEHu8YmxL-UALQ6ePeQImtRHn?usp=sharing](https://drive.google.com/drive/folders/1u3_bdYKhEHu8YmxL-UALQ6ePeQImtRHn?usp=sharing)
+  [Slides/Apresentação](https://drive.google.com/drive/folders/1Brshz-GrusuOG5cvXPuIAEjoMhD1QdSD?usp=sharing)
 
 * **Colab da Apresentação**
-  [https://drive.google.com/drive/folders/1F6GTl\_C-K7NutJaLBCWKo-d6qWjiIEyR?usp=sharing](https://drive.google.com/drive/folders/1F6GTl_C-K7NutJaLBCWKo-d6qWjiIEyR?usp=sharing)
+  [Colab](https://drive.google.com/drive/folders/1F6GTl_C-K7NutJaLBCWKo-d6qWjiIEyR?usp=sharing)
 
 ---
 
