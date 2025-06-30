@@ -37,7 +37,7 @@ Este projeto consiste na formalização, em NADIA, das seguintes regras de infer
 1. **Clone o repositório**  
    ```bash
    !git clone https://github.com/matheus-castelo/logicomp-nadia-fork
-````
+   ```
 
 2. **Instale os requisitos**
 
@@ -56,9 +56,9 @@ Este projeto consiste na formalização, em NADIA, das seguintes regras de infer
 
 4. **Use o `check_proof`**
 
-   ```python
-   # Exemplo
- from nadia.nadia_pt_fo import check_proof
+```python
+# Exemplo
+from nadia.nadia_pt_fo import check_proof
 
 print(check_proof('''1. A|B              pre
 2. A->C             pre
@@ -70,7 +70,7 @@ print(check_proof('''1. A|B              pre
 7.      C           ->e 6,3
    }
 8. C                |e 1, 4-5, 6-7'''))
-   ```
+```
 
 ---
 
